@@ -1,6 +1,6 @@
 import time
 import os
-import colorama
+import colorama # pip install colorama
 from colorama import Fore, Back, Style
 colorama.init()
 
